@@ -18,4 +18,4 @@ const NewExpense = (props) => {
       )  
 }
 
-export default NewExpense
+export default NewExpense;
