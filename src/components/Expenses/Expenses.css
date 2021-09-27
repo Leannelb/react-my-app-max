@@ -5,3 +5,11 @@
   width: 50rem;
   max-width: 95%;
 }
+
+.expenses-filter {
+  color: white;
+}
+
+.expenses-filter__control {
+  color: white;
+}
